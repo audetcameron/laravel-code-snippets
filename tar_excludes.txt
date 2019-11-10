@@ -9,3 +9,4 @@ mywebsite.sublime-project
 mywebsite.sublime-project.sublime-workspace
 ./storage/framework/views
 ./storage/framework/sessions
+.foo
